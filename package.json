@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage":"http://2116kbps.github.io/my-app",
+  "homepage":"http://2116kbps.github.io/playlist-album-art-grid",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
