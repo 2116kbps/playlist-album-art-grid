@@ -5,7 +5,7 @@
   "homepage":"https://2116kbps.github.io/playlist-album-art-grid",
   "dependencies": {
     "react": "^16.1.0",
-    "react-dom": "^16.1.0",
+    "react-dom": "^16.1.2",
     "react-scripts": "1.0.17",
     "spotify-web-api-js": "^0.22.1"
   },
