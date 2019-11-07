@@ -42,7 +42,7 @@ class App extends Component {
                 
         { this.state.loggedIn ? 
           <Form /> :
-          <a href='https://gb-test-kitchen.site/login' ><button>Login to Spotify</button></a>
+          <a href='https://collage.gb-test-kitchen.site/login' ><button>Login to Spotify</button></a>
         }
 
       </div>
